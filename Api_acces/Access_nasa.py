@@ -6,7 +6,7 @@ from datetime import datetime
 api_url = 'https://api.nasa.gov/neo/rest/v1/neo/browse'
 
 # Construct the API request with your API key
-api_key = 'BgwDyhnlidNkUeRDbWrmT5ieIIiWZ0UL0saUQh0y'
+api_key = 'your_key'
 params = {'api_key': api_key}
 
 # Send the API request
